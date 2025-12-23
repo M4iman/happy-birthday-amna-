@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Selamat Hari Jadi, Amna Nabila! 💖</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Selamat Hari Jadi, Amna! 🎉</h1>
+    <p>Daripada: <strong>Saya (Aiman)</strong></p>
+    <p>Terima kasih sebab selalu tolong saya dan sentiasa ada untuk saya. Saya hargai awak sangat-sangat. 🌸</p>
+    <button id="effectBtn">Klik untuk kejutan 🎁</button>
+    <canvas id="confetti"></canvas>
+    <div id="effect"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
